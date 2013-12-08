@@ -2,15 +2,15 @@
 # .gitignore
 #
 
-/.cachebust
+#/.cachebust
 /.git.*/
 /.gitignore.*
 /.tmp/
-/client/js/node_modules/bower_components/
-/client-built/
+#/client/js/node_modules/bower_components/
+#/client-built/
 /config/development.json
-/config/heroku.json
+#/config/heroku.json
 /config/production.json
 /log/
-/node_modules/
+#/node_modules/
 /npm-debug.log
